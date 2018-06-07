@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/04/23 10:47:54.000.924,=C:\Users\luciano.fagundes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/04/23 11:48:17.000.159,=C:\Users\luciano.fagundes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/04/23 15:24:50.000.631,=C:\Users\luciano.fagundes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/19 17:07:40.000.874,=C:\Users\luciano.fagundes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/04 17:20:24.000.552,=C:\Users\luciano.fagundes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/05 16:07:54.000.946,D:\Projeto Tokyo\src\uMenu.dfm=C:\Users\luciano.fagundes\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/06/05 16:07:54.000.946,D:\Projeto Tokyo\src\uMenu.pas=C:\Users\luciano.fagundes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/05 16:08:28.000.745,D:\Projeto Tokyo\src\SistemaLuciano.dproj=C:\Users\luciano.fagundes\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/06/05 16:13:41.000.544,=D:\Projeto Tokyo\src\Unit1.pas</Transaction>
+    <Transaction>2018/06/05 16:14:21.000.163,D:\Projeto Tokyo\src\uCadPessoas.dfm=D:\Projeto Tokyo\src\Unit1.dfm</Transaction>
+    <Transaction>2018/06/05 16:14:21.000.163,D:\Projeto Tokyo\src\uCadPessoas.pas=D:\Projeto Tokyo\src\Unit1.pas</Transaction>
+    <Transaction>2018/06/05 16:15:50.000.737,=D:\Projeto Tokyo\src\Unit2.pas</Transaction>
+    <Transaction>2018/06/05 16:17:53.000.129,=D:\Projeto Tokyo\src\Unit1.pas</Transaction>
+    <Transaction>2018/06/05 16:18:13.000.854,D:\Projeto Tokyo\src\uDM.dfm=D:\Projeto Tokyo\src\Unit1.dfm</Transaction>
+    <Transaction>2018/06/05 16:18:13.000.854,D:\Projeto Tokyo\src\uDM.pas=D:\Projeto Tokyo\src\Unit1.pas</Transaction>
+    <Transaction>2018/06/05 16:19:04.000.519,D:\Projeto Tokyo\src\uCadEnderecos.dfm=D:\Projeto Tokyo\src\Unit2.dfm</Transaction>
+    <Transaction>2018/06/05 16:19:04.000.519,D:\Projeto Tokyo\src\uCadEnderecos.pas=D:\Projeto Tokyo\src\Unit2.pas</Transaction>
+    <Transaction>2018/06/06 14:17:04.000.345,=D:\Projeto Tokyo\src\Unit1.pas</Transaction>
+    <Transaction>2018/06/06 14:17:33.000.906,D:\Projeto Tokyo\src\Unit1.pas=D:\Projeto Tokyo\src\uCadUsuario.pas</Transaction>
+    <Transaction>2018/06/06 14:17:33.000.906,D:\Projeto Tokyo\src\Unit1.dfm=D:\Projeto Tokyo\src\uCadUsuario.dfm</Transaction>
+    <Transaction>2018/06/06 14:45:29.000.271,=D:\Projeto Tokyo\src\Unit1.pas</Transaction>
+    <Transaction>2018/06/06 14:45:49.000.200,D:\Projeto Tokyo\src\Unit1.dfm=D:\Projeto Tokyo\src\uCadFilmes.dfm</Transaction>
+    <Transaction>2018/06/06 14:45:49.000.200,D:\Projeto Tokyo\src\Unit1.pas=D:\Projeto Tokyo\src\uCadFilmes.pas</Transaction>
+    <Transaction>2018/06/06 14:51:41.000.980,=D:\Projeto Tokyo\src\uCadUsuarios.pas</Transaction>
+    <Transaction>2018/06/06 15:43:53.000.903,=D:\Projeto Tokyo\src\Unit1.pas</Transaction>
+    <Transaction>2018/06/06 15:44:05.000.095,=D:\Projeto Tokyo\src\Unit1.pas</Transaction>
+    <Transaction>2018/06/06 15:44:18.000.505,D:\Projeto Tokyo\src\Unit1.dfm=D:\Projeto Tokyo\src\uCadLivros.dfm</Transaction>
+    <Transaction>2018/06/06 15:44:18.000.505,D:\Projeto Tokyo\src\Unit1.pas=D:\Projeto Tokyo\src\uCadLivros.pas</Transaction>
+    <Transaction>2018/06/06 17:35:56.000.969,=D:\Projeto Tokyo\src\uRelPessoas.pas</Transaction>
+    <Transaction>2018/06/06 20:09:39.000.883,=D:\Projeto Tokyo\src\Unit1.pas</Transaction>
+    <Transaction>2018/06/06 20:41:38.000.112,D:\Projeto Tokyo\src\uRelPessoaFilme.dfm=D:\Projeto Tokyo\src\Unit1.dfm</Transaction>
+    <Transaction>2018/06/06 20:41:38.000.112,D:\Projeto Tokyo\src\uRelPessoaFilme.pas=D:\Projeto Tokyo\src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
